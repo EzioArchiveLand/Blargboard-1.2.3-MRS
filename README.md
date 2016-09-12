@@ -65,37 +65,37 @@ Once that is done, run update.php (http://my.board.for.example/update.php) to up
 Depending on the versions, your update may involve running extra scripts to fix certain things. Make sure to follow those instructions.
 
 
-Updating from Blargboard 1.0 isn't covered.
+Updating from Blargboard 1.0 and Blargboard 1.2.1 MRS isn't covered.
 
 To update from Blargboard 1.2, just drag and drop the new files into your install of blarg, exact files are listed here:
-*/index.php
-*/install.php
-*/lib/bbcode_callbacks.php
-*/lib/bbcode_parser.php
-*/lib/common.php
-*/lib/syndromes.php
-*/lib/permstrings.php
-*/pages/register.php
-*/pages/404.php
-*/pages/newreply.php
-*/pages/newthread.php
-*/pages/nuke.php
-*/pages/reregs.php
-*/instameme (the whole folder. put in the root of your board)
-*/pages/irc.php
-*/menus.php
-*/pages/profile.php
-*/js/tricks.js
+* /index.php
+* /install.php
+* /lib/bbcode_callbacks.php
+* /lib/bbcode_parser.php
+* /lib/common.php
+* /lib/syndromes.php
+* /lib/permstrings.php
+* /pages/register.php
+* /pages/404.php
+* /pages/newreply.php
+* /pages/newthread.php
+* /pages/nuke.php
+* /pages/reregs.php
+* /instameme (the whole folder. put in the root of your board)
+* /pages/irc.php
+* /menus.php
+* /pages/profile.php
+* /js/tricks.js
 
 to update from blargboard 1.2.2, drag these files
-*/lib/common.php
-*/lib/syndromes
-*/lib/bbcode_callbacks.php
-*/js/tricks.js
-*/pages/newreply.php
-*/pages/newthread.php
-*/pages/profile.php
-*/instameme (the whole folder. put it in the root of your board)
+* /lib/common.php
+* /lib/syndromes
+* /lib/bbcode_callbacks.php
+* /js/tricks.js
+* /pages/newreply.php
+* /pages/newthread.php
+* /pages/profile.php
+* /instameme (the whole folder. put it in the root of your board)
 
 ## Features
 
@@ -191,6 +191,8 @@ Blargboard is provided as-is, with no guarantee that it'll be useful or even wor
 responsible if it explodes in your face. Use that thing at your own risk.
 
 Oh well, it should work rather well. See Kuribo64. But uh, we never know.
+
+Oh wait, Kuribo64 ditched Blargboard a while ago
 
 -------------------------------------------------------------------------------
 
